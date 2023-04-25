@@ -5,10 +5,7 @@
 
 - 🌱 I’m currently learning **Programming Fundamentals with JavaScript - Software University** --> **https://softuni.bg/**
 
-- 👨‍💻 All of my projects are available at [https://aydankara.github.io/My-Web-Sites-Portfolio/](https://aydankara.github.io/My-Web-Sites-Portfolio/)
-
 - 📫 How to reach me **aydankaramehmed@gmail.com**
-
 
 <p align="left">
 </p>
