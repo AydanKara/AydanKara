@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Programming Fundamentals with JavaScript - Software University** --> **https://softuni.bg/**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript...** 
 
 - 📫 How to reach me **aydankaramehmed@gmail.com**
 
