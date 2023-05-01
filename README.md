@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript...** 
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React...** 
 
 - 📫 How to reach me **aydankaramehmed@gmail.com**
 
